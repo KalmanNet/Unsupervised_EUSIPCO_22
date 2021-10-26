@@ -1,0 +1,31 @@
+T=T_test=100
+
+N_E = 10000
+
+N_CV = 150
+
+N_T = 1000
+
+(n_Epochs=200, n_Batch=200, learningRate=1E-2, weightDecay=5E-5)
+(n_Epochs=500, n_Batch=200, learningRate=2E-3, weightDecay=5E-5)
+
+q = 1*delta_t
+r =1
+
+delta_t = 0.02
+
+
+
+
+Partial
+
+H rotate 1 degree
+v = -20 [dB]
+T=T_test=100
+N_E = 10000
+N_CV = 150
+N_T = 1000
+q = 1*delta_t
+r =1
+delta_t = 0.02
+(n_Epochs=200, n_Batch=200, learningRate=2E-3, weightDecay=5E-5)
